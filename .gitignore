@@ -13,3 +13,6 @@ clips/
 *.mp4
 *.pt
 
+
+!README.md
+!final_scopus_metrics.csv
